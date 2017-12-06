@@ -1,1 +1,113 @@
-/* Los estilos de tu proyecto */
+nav{
+	background-color: #F7F7F7;
+}
+.logo{
+	margin-left: 3%;
+	margin-top: 0.3%;
+}
+.cab_one{
+	background-image: url(../assets/images/taxi.jpg);
+	background-repeat: none;
+	background-size: cover;
+	background-position: bottom;
+	height: 100vh;
+}
+.white_logo{
+	width: 20%;
+}
+.frame{
+	margin-top: 7%;
+}
+.inpt{
+	background-color: transparent;
+	border-style: none;
+	border-bottom: 2px solid white;
+	width: 30%;
+}
+.top_btn{
+	background-color: white;
+	border-style: none;
+	border-radius: 3px;
+	margin-top: 3%;
+}
+.bottom_btn{
+	background-color: white;
+	border-style: none;
+	border-radius: 3px;
+	margin-top: 3%;
+	margin-bottom: 10%;
+}
+.row_sectone , .row_secthree , .row_inpt , .row_sectfour{
+	margin-bottom: 0;
+}
+.content_back{
+	padding: 2% 2% 2% 0;
+}
+.content_frame{
+	border:1px solid white;
+}
+.phone , .text{
+	margin: 5%;
+}
+.text h5{
+	font-weight: 400;
+}
+.text p{
+	font-size: 130%;
+}
+.cab_two{
+	background-image: url(../assets/images/conduce.jpg);
+	background-repeat: none;
+	background-size: cover;
+	background-position: center;
+	height: 70vh;
+	padding-top: 50%;
+}
+.second_btn{
+	border-style: none;
+	border-radius: 3px;
+	padding: 3%;
+	margin: 5% 0;
+}
+.frame_two{
+	background-color: rgba(0,0,0,0.5);
+}
+.input-field input.validate {
+  border:1px solid white;
+  padding: 0 0 0 20%;
+  border-radius:7px;
+}
+label{
+	padding-left: 4%;
+}
+.row_tittles{
+	margin-left: 1%;
+}
+.tittles{
+	margin-top: 80px;
+}
+.tittles h5{
+	font-weight: 500;
+}
+iframe{
+	padding: 2%;
+	margin: 2% 0;
+}
+
+.app_logo{
+	margin-top: 10%;
+}
+.app_logo li{
+	margin-left: %;
+}
+.row_list{
+	line-height: 200%;
+}
+.fa{
+	margin-top:%;
+	padding-right: 2%;
+}
+
+.icon{
+	margin-top: 20%;
+}
